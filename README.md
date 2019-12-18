@@ -23,7 +23,7 @@ BODY answer example:
 
 ## To test API via curl use 
 
-### Create request
+### Request
 
 Instead of %VALUE% and %ADDRESS% insert real values
 
